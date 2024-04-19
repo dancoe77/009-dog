@@ -1,2 +1,2 @@
 # 009-dog
-Go repository that puppy depends on
+Go repository that show what happens when puppy grow up

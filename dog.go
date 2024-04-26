@@ -1,9 +1,9 @@
 package dog
 
-import (
-	"strings"
-)
+func BigBark() string{
+	return "WOOF!"
+}
 
-func WhenGrownUp(s string) string {
-	return "When the puppy grows up it says:" + strings.ToUpper(s) 
+func BigBarks() string {
+	return "WOOF! WOOF! WOOF!"
 }
